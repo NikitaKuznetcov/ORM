@@ -2,3 +2,16 @@
     margin-top: 30px;
     margin-bottom: 70px;
 }
+
+.phone {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sort-block .sort-item {
+    padding-right: 20px;
+}
+
+.price {
+    font-weight: bold;
+}
